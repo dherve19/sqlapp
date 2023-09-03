@@ -1,0 +1,7 @@
+C:\Users\dzeud\Documents\workspace\MyWebApp\bin\Publish\MyWebApp.exe
+C:\Users\dzeud\Documents\workspace\MyWebApp\bin\Publish\appsettings.Development.json
+C:\Users\dzeud\Documents\workspace\MyWebApp\bin\Publish\appsettings.json
+C:\Users\dzeud\Documents\workspace\MyWebApp\bin\Publish\MyWebApp.dll
+C:\Users\dzeud\Documents\workspace\MyWebApp\bin\Publish\MyWebApp.deps.json
+C:\Users\dzeud\Documents\workspace\MyWebApp\bin\Publish\MyWebApp.runtimeconfig.json
+C:\Users\dzeud\Documents\workspace\MyWebApp\bin\Publish\MyWebApp.pdb
